@@ -1,0 +1,14 @@
+{
+	"token": "NzEzMDM3NDA4MjA3MTEwMTU1.XssmTw.MjIItwIBQUOuEhpeEA4RAqPhGJg",
+	"ownerID": "700656817344086078",
+	"webhook": "",
+	"defaultPrefix": "",
+	"clientSecret": "cp4jCwLXRdXFcwiHMJ5KyFj1D0Msqlv7",
+	"websiteURL": "http://dashboard.localhost:8080",
+
+	"red": "0xffb3ba",
+	"orange": "0xffdfba",
+	"yellow": "0xfffba",
+	"green": "0xbaffc9",
+	"blue": "0xbae1ff"
+}
